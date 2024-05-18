@@ -1,4 +1,4 @@
-nav Link {
-    margin-right: 20px;
-    color: brown;
+nav a{
+    margin-left: 20px;
+    font-size: 20px;
 }
