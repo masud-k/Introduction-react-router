@@ -2,3 +2,13 @@ nav a{
     margin-left: 20px;
     font-size: 20px;
 }
+
+nav a:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+nav a.active {
+    color: #000;
+    text-decoration: underline;
+}
